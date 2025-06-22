@@ -2,7 +2,7 @@ class GitleaksAuto < Formula
   desc "Install Gitleaks globally with Git pre-commit hook"
   homepage "https://github.com/anhducmata/gitleaks-auto"
   url "https://github.com/anhducmata/gitleaks-auto/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "3b52e71d892c03aff7421f9d4e44fd0ddf1d7939b06bfcfbba267f65f53d8914"
   license "MIT"
 
   def install
